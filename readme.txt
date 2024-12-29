@@ -36,8 +36,17 @@ Steps
 5. Send these files/commits to GITHUB
 > git push testOrigin
 
-6. Create a new branch
+6. show all branches
+> git branch
 
+7. Create a new branch
+> git branch <branchName>
+
+8. To go inside the branch
+> git checkout <branchName>
+
+9. To create and checkout 
+-> git checkout -b <branchName>
 
 Exit vim editor
 :wq
