@@ -14,15 +14,29 @@ Steps
 1. Create GIT Repository / Folder
 > git init
 
-2. Put your project inside the repository
+2. Check the status of your files
+> git status
+
+3. Log your changes with command 
+> git log
+
+3. Put your project inside the repository
 
     Process to put project files in repository
     1. Tracking Area -> Staging Area => git add <fileName>/ git add .
     2. Staging Area -> Commited => git commit -m "Any message"
     3. Committed
 
-3. Check the status of your files
-> git status
+
+4. Connect your git with github
+> git remote add origin <github repo url>
+    To check if connection is established
+    > git remote
+
+5. Send these files/commits to GITHUB
+> git push testOrigin
+
+6. Create a new branch
 
 
 Exit vim editor
