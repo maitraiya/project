@@ -52,5 +52,8 @@ Steps
 > Go inside the branch where you want the changes to be reflected.
 > git pull testOrigin donation
 
+11. To get whole repository inside your local
+> git clone
+
 Exit vim editor
 :wq
