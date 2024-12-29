@@ -48,5 +48,9 @@ Steps
 9. To create and checkout 
 -> git checkout -b <branchName>
 
+10. Pull donation branch changes into main branch
+> Go inside the branch where you want the changes to be reflected.
+> git pull testOrigin donation
+
 Exit vim editor
 :wq
