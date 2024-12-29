@@ -53,7 +53,7 @@ Steps
 > git pull testOrigin donation
 
 11. To get whole repository inside your local
-> git clone
+> git clone <github repo clone>
 
 Exit vim editor
 :wq
